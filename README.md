@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # Loja Online - Campanha de Black Friday
+=======
+# Loja Online - Campanha de natal
+>>>>>>> feature/natal
 
 ## contato
 Dúvidas: contato@loja.com.br
