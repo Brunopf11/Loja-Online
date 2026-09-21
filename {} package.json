@@ -1,0 +1,7 @@
+{
+    "name": "loja-online",
+    "version": "1.0.0",
+    "description": "Projeto de exemplo do curso Git, Agile & Dev Culture",
+    "main": "node --test"
+
+}
